@@ -12,7 +12,7 @@ Classic brick breaker game developed as an Android application for the course pr
 ## Installation
 
 1. Clone the repository:
-```git clone https://github.com/<your-username>/<your-repo-name>.git```
+```git clone https://github.com/EugenioRibon/AndroidProjectBrickBreaker.git```
 
 3. Open the project in **Android Studio**.
 4. Let Gradle sync and build the project.
